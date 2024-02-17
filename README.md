@@ -1,3 +1,4 @@
-# Subash-
-This is my first git repository 
+# Subash
+This is my first git repository.
+<br>
 Author-Subash Pariyar
